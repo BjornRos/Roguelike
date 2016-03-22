@@ -1,0 +1,9 @@
+C:\Users\Björn\documents\visual studio 2013\Projects\Roguelike\Tags\bin\Debug\Tags.dll
+C:\Users\Björn\documents\visual studio 2013\Projects\Roguelike\Tags\bin\Debug\Tags.pdb
+C:\Users\Björn\documents\visual studio 2013\Projects\Roguelike\Tags\obj\Debug\Tags.dll
+C:\Users\Björn\documents\visual studio 2013\Projects\Roguelike\Tags\obj\Debug\Tags.pdb
+C:\Users\Björn\Dropbox\Utveckling\Roguelike\Tags\bin\Debug\Tags.dll
+C:\Users\Björn\Dropbox\Utveckling\Roguelike\Tags\bin\Debug\Tags.pdb
+C:\Users\Björn\Dropbox\Utveckling\Roguelike\Tags\obj\Debug\Tags.csprojResolveAssemblyReference.cache
+C:\Users\Björn\Dropbox\Utveckling\Roguelike\Tags\obj\Debug\Tags.dll
+C:\Users\Björn\Dropbox\Utveckling\Roguelike\Tags\obj\Debug\Tags.pdb
